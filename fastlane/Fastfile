@@ -29,9 +29,10 @@ platform :ios do
       }
     )
     firebase_app_distribution(
+      firebase_cli_token: $FIREBASE_TOKEN
       app: "1:701551039095:ios:dc6c39e49394f8f09cac72",
       testers: "o.frankiv@ukma.edu.ua",
-      release_notes: "Перевірка Fastlane"
+      release_notes: "Cloud CI"
     )
   end
 
