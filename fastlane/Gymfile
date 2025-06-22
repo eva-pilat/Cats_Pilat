@@ -1,0 +1,8 @@
+workspace("CatsAndModules_YevaPilat2.xcworkspace")
+scheme("CatsAndModules_YevaPilat2 (CatsAndModules_YevaPilat2 project)")
+destination("generic/platform=iOS")
+export_method("development")
+output_directory("./output")
+output_name("Archive")
+clean(true)
+export_options("./exportOptions.plist")
