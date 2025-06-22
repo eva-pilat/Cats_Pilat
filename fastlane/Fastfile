@@ -24,7 +24,7 @@ platform :ios do
     gym(
       export_options: {
         provisioningProfiles: {
-          "ua.edu.ukma.apple-env.matvieieva.CatsAndModules-YevaPilat2" => "c86a6c1d-cb86-4b95-8ae7-5e42c4862cd3"
+          "ua.edu.ukma.apple-env.matvieieva.CatsAndModules-YevaPilat2" => "4a02c8d2-bd86-434b-a85b-e0bfb3852e00"
         }
       }
     )
